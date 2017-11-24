@@ -1,0 +1,6 @@
+[package]
+name = "rsgrep"
+version = "0.1.0"
+authors = ["matsu <matsumoto@aptpod.co.jp>"]
+
+[dependencies]
